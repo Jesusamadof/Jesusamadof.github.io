@@ -1,0 +1,37 @@
+.seccion-bienvenida {
+  text-align: center;
+  padding: 3rem;
+  background-color: white; /* ✅ fondo blanco */
+  color: black;             /* ✅ texto negro */
+}
+
+
+.seccion-bienvenida h1 {
+  font-size: 3rem;
+  padding: 0.5rem;
+}
+
+.seccion-bienvenida h3 {
+  font-size: 1.2rem;
+  padding: 0.5rem;
+}
+
+.color-white {
+  color: white;
+}
+
+.habilidades {
+     text-align:center;
+  padding: 1rem;
+  border-radius: 15px;
+  box-shadow: 0 5px 5px 0 gray;
+  margin: 1rem;
+}
+
+.habilidades i {
+  font-size: 30px;
+  color: blue;
+}
+.PRealizados card{
+    width: 200px; 
+}
